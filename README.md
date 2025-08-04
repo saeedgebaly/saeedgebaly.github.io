@@ -58,7 +58,11 @@
 </head>
 <body>
   <header>
-    <div class="image-placeholder"></div>
+    <div class="image-placeholder">
+  <!-- ضع هنا صورة حقيقية -->
+  <img src="WhatsApp Image 2025-07-21 at 19.46.01_acf40850.jpg" alt="Saeed Nabil" style="border-radius: 50%; width: 150px;">
+</div>
+
     <h1>Saeed Nabil</h1>
     <p>Cloud & DevOps Engineer</p>
   </header>
